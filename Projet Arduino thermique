@@ -1,0 +1,24 @@
+Projet Arduino mega
+
+Faire un contrôle de température d'un circuit de refroidissement watercooling
+
+Application: La carte arduino va devoir gérer la température de l'eau (image de la température du composants refroidie)
+et contrôler proportionnellement le débit d'eau et la vitesse du ventilo.
+Tout ceci sera afficher sur l'écrand de contrôle.
+L'utilisateur pourra demander une température voulue (entre 20°C et 70°).
+
+
+Composants utiles:
+-Un échangeur thermique
+-Un ventilo pwm
+-Une pompe à eau
+-Eau déminéralisée
+-Tuyaux
+-Une plaque alu de contact
+-Arduino mega
+-Afficheur LCD
+-Relais
+-alim
+
+
+Trouver un moyen de contrôler en pwm le ventilo et pompe
